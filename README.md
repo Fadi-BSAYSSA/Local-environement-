@@ -21,9 +21,8 @@ Run the following command to install all the required dependencies:
 
 npm install
 
-3. Start the API Locally:
-
-4. Start the API server by running:
+4.Start the API Locally:
+Start the API server by running:
 
 npm start
 
